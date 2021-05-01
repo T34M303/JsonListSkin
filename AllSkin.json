@@ -81,12 +81,12 @@
   },
   {
     "name": "Fanny Christmas Carnival",
-    "image": "x",
+    "image": "https://github.com/T34M303/DATA-IMAGE-SKIN/blob/main/LAIN%20NYA/SPECIAL/Fanny%20Christmas%20Carnival%20%5BSPECIAL%5D.jpg",
     "url": "https://github.com/T34M303/DATA-SKIN/blob/main/LAIN%20NYA/SPECIAL/Fanny%20Christmas%20Carnival%20%5BSPECIAL%5D.zip"
   },
   {
     "name": "Fanny Lifeguard",
-    "image": "x",
+    "image": "https://github.com/T34M303/DATA-IMAGE-SKIN/blob/main/LAIN%20NYA/SPECIAL/Claude%20And%20Fanny%20Lifeguard%20%5BSPECIAL%5D.jpg",
     "url": "https://github.com/T34M303/DATA-SKIN/blob/main/LAIN%20NYA/SPECIAL/Fanny%20Lifeguard%20%5BSPECIAL%5D.zip"
   },
   {
@@ -175,7 +175,7 @@
     "url": "https://github.com/T34M303/DATA-SKIN/blob/main/KOF/Guinevere%20Athena%20Asamiya%20%5BK.O.F%5D.zip"
   },
   {
-    "name": "Gusion K",
+    "name": "Gusion K\u0027",
     "image": "https://github.com/T34M303/DATA-IMAGE-SKIN/blob/main/KOF/Gusion%20K\u0027%20%5BK.O.F%5D.jpg",
     "url": "https://github.com/T34M303/DATA-SKIN/blob/main/KOF/Gusion%20K\u0027%20%5BK.O.F%5D.zip"
   },
@@ -223,100 +223,5 @@
     "name": "Chou S.T.U.N",
     "image": "https://github.com/T34M303/DATA-IMAGE-SKIN/blob/main/STUN/Chou%20S.T.U.N.jpg",
     "url": "https://github.com/T34M303/DATA-SKIN/blob/main/STUN/Chou%20S.T.U.N%20%5BS.T.U.N%5D.zip"
-  },
-  {
-    "name": "x",
-    "image": "x",
-    "url": "x"
-  },
-  {
-    "name": "x",
-    "image": "x",
-    "url": "x"
-  },
-  {
-    "name": "x",
-    "image": "x",
-    "url": "x"
-  },
-  {
-    "name": "x",
-    "image": "x",
-    "url": "x"
-  },
-  {
-    "name": "x",
-    "image": "x",
-    "url": "x"
-  },
-  {
-    "name": "x",
-    "image": "x",
-    "url": "x"
-  },
-  {
-    "name": "x",
-    "image": "x",
-    "url": "x"
-  },
-  {
-    "name": "x",
-    "image": "x",
-    "url": "x"
-  },
-  {
-    "name": "x",
-    "image": "x",
-    "url": "x"
-  },
-  {
-    "name": "x",
-    "image": "x",
-    "url": "x"
-  },
-  {
-    "name": "x",
-    "image": "x",
-    "url": "x"
-  },
-  {
-    "name": "x",
-    "image": "x",
-    "url": "x"
-  },
-  {
-    "name": "x",
-    "image": "x",
-    "url": "x"
-  },
-  {
-    "name": "x",
-    "image": "x",
-    "url": "x"
-  },
-  {
-    "name": "x",
-    "image": "x",
-    "url": "x"
-  },
-  {
-    "name": "x",
-    "image": "x",
-    "url": "x"
-  },
-  {
-    "name": "x",
-    "image": "x",
-    "url": "x"
-  },
-  {
-    "name": "x",
-    "image": "x",
-    "url": "x"
-  },
-  {
-    "name": "x",
-    "image": "x",
-    "url": "x"
   }
 ]
