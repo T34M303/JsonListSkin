@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Aurora Kula Diamond",
+    "image": "https://github.com/T34M303/DATA-IMAGE-SKIN/raw/main/KOF/Aurora%20Kula%20Diamond%20%5BK.O.F%5D.jpg",
+    "url": "https://github.com/T34M303/DATA-SKIN/raw/main/KOF/Aurora%20Kula%20Diamond%20%5BK.O.F%5D.zip"
+  },
+  {
+    "name": "Chou Iori Yagami",
+    "image": "https://github.com/T34M303/DATA-IMAGE-SKIN/raw/main/KOF/Chou%20Iori%20Yagami%20%5BK.O.F%5D.jpg",
+    "url": "https://github.com/T34M303/DATA-SKIN/raw/main/KOF/Chou%20Iori%20Yagami%20%5BK.O.F%5D.zip"
+  },
+  {
+    "name": "Dyrroth Orochi Chris",
+    "image": "https://github.com/T34M303/DATA-IMAGE-SKIN/raw/main/KOF/Dyrroth%20Orochi%20Chris%20%5BK.O.F%5D.jpg",
+    "url": "https://github.com/T34M303/DATA-SKIN/raw/main/KOF/Dyrroth%20Orochi%20Chris%20%5BK.O.F%5D.zip"
+  },
+  {
+    "name": "Guinevere Athena Asamiya",
+    "image": "https://github.com/T34M303/DATA-IMAGE-SKIN/raw/main/KOF/Guinevere%20Athena%20Asamiya%20%5BK.O.F%5D.jpg",
+    "url": "https://github.com/T34M303/DATA-SKIN/raw/main/KOF/Guinevere%20Athena%20Asamiya%20%5BK.O.F%5D.zip"
+  },
+  {
+    "name": "Gusion K",
+    "image": "https://github.com/T34M303/DATA-IMAGE-SKIN/raw/main/KOF/Gusion%20K\u0027%20%5BK.O.F%5D.jpg",
+    "url": "https://github.com/T34M303/DATA-SKIN/raw/main/KOF/Gusion%20K\u0027%20%5BK.O.F%5D.zip"
+  },
+  {
+    "name": "Karina Leona",
+    "image": "https://github.com/T34M303/DATA-IMAGE-SKIN/raw/main/KOF/Karina%20Leona%20%5BK.O.F%5D.jpg",
+    "url": "https://github.com/T34M303/DATA-SKIN/raw/main/KOF/Karina%20Leona%20%5BK.O.F%5D.zip"
+  }
+]
