@@ -271,8 +271,26 @@
   },
   {
     "name": "Selena S.T.U.N",
-    "image": "https://github.com/T34M303/DATA-IMAGE-SKIN/raw/main/STUN/Selena%20S.T.U.N%20%5BS.T.U.N%5D.jpg",
+    "image": "https://github.com/T34M303/JsonListSkin/raw/main/Clone%20IMLS/Data/Image/Selena%20S.T.U.N.jpg",
     "url": "https://github.com/T34M303/DATA-SKIN/raw/main/STUN/Selena%20S.T.U.N%20%5BS.T.U.N%5D.zip",
+    "categories": "Skin"
+  },
+{
+    "name": "Brody S.T.U.N",
+    "image": "https://github.com/T34M303/JsonListSkin/raw/main/Clone%20IMLS/Data/Image/Selena%20S.T.U.N.jpg",
+    "url": "https://github.com/T34M303/JsonListSkin/raw/main/Clone%20IMLS/Data/Skin/Brody%20S.T.U.N.zip",
+    "categories": "Skin"
+  },
+{
+    "name": "Cyclops Star Wars",
+    "image": "https://github.com/T34M303/JsonListSkin/raw/main/Clone%20IMLS/Data/Image/Cyclops%20Star%20Wars.jpg",
+    "url": "https://github.com/T34M303/JsonListSkin/raw/main/Clone%20IMLS/Data/Skin/Cyclops%20Star%20Wars.zip",
+    "categories": "Skin"
+  },
+  {
+    "name": "Argus Star Wars",
+    "image": "https://github.com/T34M303/JsonListSkin/raw/main/Clone%20IMLS/Data/Image/Argus%20Star%20Wars.jpg",
+    "url": "https://github.com/T34M303/JsonListSkin/raw/main/Clone%20IMLS/Data/Skin/Argus%20Star%20Wars.zip",
     "categories": "Skin"
   }
 ]
