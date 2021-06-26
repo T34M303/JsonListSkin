@@ -5,10 +5,16 @@
     "url": "https://github.com/T34M303/DATA-SKIN/raw/main/STUN/Chou%20S.T.U.N%20%5BS.T.U.N%5D.zip",
     "categories": "Skin"
   },
-  {
+    {
     "name": "Selena S.T.U.N",
-    "image": "https://github.com/T34M303/DATA-IMAGE-SKIN/raw/main/STUN/Selena%20S.T.U.N%20%5BS.T.U.N%5D.jpg",
+    "image": "https://github.com/T34M303/JsonListSkin/raw/main/Clone%20IMLS/Data/Image/Selena%20S.T.U.N.jpg",
     "url": "https://github.com/T34M303/DATA-SKIN/raw/main/STUN/Selena%20S.T.U.N%20%5BS.T.U.N%5D.zip",
+    "categories": "Skin"
+  },
+{
+    "name": "Brody S.T.U.N",
+    "image": "https://github.com/T34M303/JsonListSkin/raw/main/Clone%20IMLS/Data/Image/Brody%20S.T.U.N.jpg",
+    "url": "https://github.com/T34M303/JsonListSkin/raw/main/Clone%20IMLS/Data/Skin/Brody%20S.T.U.N.zip",
     "categories": "Skin"
   }
 ]
