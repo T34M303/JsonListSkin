@@ -1,32 +1,5 @@
 [{
 "name":"ALL SKIN",
-"image":"https://github.com/T34M303/THUMBNAIL/raw/main/skin.png"
-},
-{
-"name":"BACKUP SKIN",
-"image":"https://github.com/T34M303/DATA-IMAGE-PACK-SKIN/raw/main/MLBB_Malaysia.jpg"
-},
-{
-"name":"BATTLE EMOTE",
-"image":"https://github.com/T34M303/DATA-IMAGE-PACK-SKIN/raw/main/MLBB-x-Star-Wars-Cover.jpg"
-},
-{
-"name":"EFFECT RECALL",
-"image":"https://github.com/T34M303/DATA-IMAGE-PACK-SKIN/raw/main/Stun.jpg"
-},
-{
-"name":"EFFECT SPAWN",
-"image":"https://github.com/T34M303/DATA-IMAGE-PACK-SKIN/raw/main/Kof.jpg"
-},
-{
-"name":"EFFECT ELIMINATION",
-"image":"https://github.com/T34M303/DATA-IMAGE-PACK-SKIN/raw/main/Hero.jpg"
-},
-{
-"name":"MAP CUSTOM",
-"image":"https://github.com/T34M303/DATA-IMAGE-PACK-SKIN/raw/main/Saber_squad_wall.jpg"
-},
-{
-"name":"BACKGROUND CUSTOM",
-"image":"https://github.com/T34M303/DATA-IMAGE-PACK-SKIN/raw/main/Venom.jpg"
+"image":"https://github.com/T34M303/THUMBNAIL/raw/main/skin.png",
+"data":"https://github.com/T34M303/JsonListSkin/blob/main/Clone%20IMLS/All%20Skin.json"
 }]
