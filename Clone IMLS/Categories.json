@@ -6,4 +6,8 @@
 "name":"BACKUP SKIN",
 "image":"https://github.com/T34M303/DATA-IMAGE-PACK-SKIN/raw/main/MLBB_Malaysia.jpg",
 "data":"https://github.com/T34M303/JsonListSkin/raw/main/Clone%20IMLS/Backup%20Skin.json"
+},{
+"name":"BATTLE EMOTE",
+"image":"https://github.com/T34M303/THUMBNAIL/raw/main/Emote.jpg",
+"data":"https://github.com/T34M303/JsonListSkin/raw/main/Clone%20IMLS/Battle%20Emote.json"
 }]
