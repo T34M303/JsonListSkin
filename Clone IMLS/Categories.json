@@ -10,4 +10,8 @@
 "name":"BATTLE EMOTE",
 "image":"https://github.com/T34M303/THUMBNAIL/raw/main/Emote.jpg",
 "data":"https://github.com/T34M303/JsonListSkin/raw/main/Clone%20IMLS/Battle%20Emote.json"
+},{
+"name":"EFFECT RECALL",
+"image":"https://github.com/T34M303/THUMBNAIL/raw/main/download.jpeg",
+"data":"https://github.com/T34M303/JsonListSkin/raw/main/Clone%20IMLS/Effect%20Recall.json"
 }]
